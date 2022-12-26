@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/adda-benkoceir-mohamed-018580200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adda benkoceir mohamed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/addabenkoceir.mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed adda" height="30" width="40" /></a>
 <a href="https://instagram.com/adda_benkoceir_mohamed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adda benkoceir mohamed" height="30" width="40" /></a>
-<a href="https://discord.gg/adda benkoceir mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adda benkoceir mohamed" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
