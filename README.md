@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Adda BenKoceir Mohamed</h1>
+<h1 align="center">Hi 👋, I'm ADDA BENKOSSEIR Mohamed</h1>
 <h3 align="center">I have vast expertise building websites utilizing both front-end (HTML5 CSS 3, JavaScript, Bootstrap Framework) and back-end (JavaScript, Bootstrap Framework) (PHP, MySQL, SQL, Laravel PHP Framework). I enjoy learning new things and honing my skills.</h3>
 
 <h3 align="left">Connect with me:</h3>
